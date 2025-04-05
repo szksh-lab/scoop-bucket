@@ -1,19 +1,19 @@
 {
-    "version": "0.1.0",
+    "version": "0.1.1",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/szksh-lab/hello/releases/download/v0.1.0/hello_windows_amd64.zip",
+            "url": "https://github.com/szksh-lab/hello/releases/download/v0.1.1/hello_windows_amd64.zip",
             "bin": [
                 "hello.exe"
             ],
-            "hash": "3a303065ba440eaea00b9e2809eb0a817c2716dda98b7edb35eabe5ed99458a4"
+            "hash": "b2131c82136220f5ed028095a9db5efd35f63d0cf84fc55850b16837d4d7aa21"
         },
         "arm64": {
-            "url": "https://github.com/szksh-lab/hello/releases/download/v0.1.0/hello_windows_arm64.zip",
+            "url": "https://github.com/szksh-lab/hello/releases/download/v0.1.1/hello_windows_arm64.zip",
             "bin": [
                 "hello.exe"
             ],
-            "hash": "d765c1fed5335fe0a7bfa6da06295f32d46e86c9ab595911882da0b1fdb35f8d"
+            "hash": "bb7163232e9530f9b5aeb93d6e4a595de83ebeb1d26f6cfa8acff5ebd830e58d"
         }
     },
     "license": "MIT",
